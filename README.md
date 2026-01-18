@@ -1,4 +1,4 @@
-# Self-Introduction
+# Nice to meet you!
 ## 📒 profile
 ### about
 - Student of NIT, Kisarazu College (Information and Computer Engineering 4th grade)
