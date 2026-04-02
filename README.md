@@ -1,9 +1,9 @@
 # Nice to meet you!
 ## 📒 profile
 ### about
-- Student of NIT, Kisarazu College (Information and Computer Engineering 4th grade)
+- Student of NIT, Kisarazu College (Information and Computer Engineering 5th grade)
 - Gender : Male
-- Age : 18 (2007 02/17)
+- Age : 19 (2007 02/17)
 - Calculus lover💛
 - Horror Games lover💀 (ex: Bio Hazard, Dead by Daylight, Outlast and more.)
 
